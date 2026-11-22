@@ -1,0 +1,10 @@
+title: gadgetlover.blog
+description: ガジェットを実際に使ってレビューするブログ。スマホ、ロボット掃除機、スマートホーム機器など、日常で使っているモノの正直な感想を書きます。
+theme: minima
+url: "https://gadgetlover.blog"
+baseurl: ""
+lang: ja_JP
+timezone: Asia/Tokyo
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
